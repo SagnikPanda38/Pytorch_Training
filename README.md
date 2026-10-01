@@ -891,28 +891,6 @@ Optimizers
 
 ---
 
-# 🚀 Future Improvements
-
-The repository can be extended by adding:
-
-* `DataLoader`
-* Mini-batch training
-* Validation dataset
-* Multiple hidden layers
-* ReLU activation
-* Adam optimizer
-* Learning-rate scheduling
-* Confusion matrix
-* Precision
-* Recall
-* F1-score
-* ROC-AUC
-* Training-loss visualization
-* Validation-loss visualization
-* GPU/CPU device handling
-* Model saving and loading
-* Reproducible random seeds
-* Hyperparameter tuning
 
 A natural next step would be to progress from:
 
@@ -967,18 +945,4 @@ Optimizer
 ```
 
 Understanding both approaches makes it easier to understand what PyTorch's high-level APIs are actually doing rather than treating them as black boxes.
-
----
-
-# 👨‍💻 Author
-
-**Sagnik Panda**
-
-CSE Student | Artificial Intelligence & Machine Learning
-
----
-
-## 📜 License
-
-This project is intended for **educational and learning purposes**.
 
